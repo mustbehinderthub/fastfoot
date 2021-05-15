@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bbcaa53108bed149bf825200e16a42a, type: 3}
+  m_Name: Punch
+  m_EditorClassIdentifier: 
+  title: Punch
+  sprite: {fileID: 21300000, guid: dcaf69cb68b3be24cb9337fee8e8d58a, type: 3}
+  maxRange: 0
+  duration: 1
+  isPerforming: 0
+  canPerform: 1
+  xDirection: 0
+  yDirection: 0
+  zDirection: 0
+  playerMoveSpeed: 0
+  forceMode: 0
+  abilityVFX: {fileID: 8599181642329163260, guid: fe40e349df900184ab6de062334a892a, type: 3}
+  animClip: {fileID: 0}
+  sound: {fileID: 8300000, guid: 18a45430ce5ff0548b5fceb744caa6b0, type: 3}
+  audioDelay: 0
+  damage: 20
+  projMoveSpeed: 0
+  coolDown: 0

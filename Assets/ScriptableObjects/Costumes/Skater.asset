@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1df7a0eae7cebef43bf0bf92b11fdb2f, type: 3}
+  m_Name: Skater
+  m_EditorClassIdentifier: 
+  title: Skater
+  sprite: {fileID: 21300000, guid: 84472085da2ddcd4bb2e31feedd72706, type: 3}
+  costumeAbilities:
+  - {fileID: 11400000, guid: a8bea2930cc7a6d41bb3262997cc6302, type: 2}
+  - {fileID: 11400000, guid: 9b28fed5cd9421941a0cf53d0d408d38, type: 2}
+  - {fileID: 11400000, guid: 76f6d83b35c7ded4aa763d190201bb8e, type: 2}
+  charMesh: {fileID: 7743329269220789515, guid: 78ee1d362aef95b4fb586421dbb3b02c, type: 3}
+  dressVFX: {fileID: 835036485603188171, guid: 909ad7f8c7e8b0a459ace2ef888bd427, type: 3}
+  indiviualDressAC: {fileID: 0}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1df7a0eae7cebef43bf0bf92b11fdb2f, type: 3}
+  m_Name: Ramen
+  m_EditorClassIdentifier: 
+  title: Ramen
+  sprite: {fileID: 21300000, guid: c814ad4d5e8691d4ea5c8ac4061636ce, type: 3}
+  costumeAbilities:
+  - {fileID: 11400000, guid: 165d2bec59f5a884bab5c40ce300d093, type: 2}
+  - {fileID: 11400000, guid: 0608a379045141c4281021c1d00ae149, type: 2}
+  - {fileID: 11400000, guid: 76f6d83b35c7ded4aa763d190201bb8e, type: 2}
+  charMesh: {fileID: 3390558720134950976, guid: 465ee91cbbf733a4c9686668a9f97eee, type: 3}
+  dressVFX: {fileID: 6414825715766418841, guid: baf9b3cbc1b6f6b43b56f9385a79686f, type: 3}
+  indiviualDressAC: {fileID: 0}

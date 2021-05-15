@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d51c74e28b15c354a9ba2c3a5fb879ce, type: 3}
+  m_Name: WallSlide
+  m_EditorClassIdentifier: 
+  title: 
+  sprite: {fileID: 21300000, guid: 87f325f6968b25e468980bd97e6f0f42, type: 3}
+  maxRange: 0
+  duration: 0
+  isPerforming: 0
+  canPerform: 1
+  xDirection: 0
+  yDirection: 1
+  zDirection: 0
+  playerMoveSpeed: 400
+  forceMode: 2
+  abilityVFX: {fileID: 1118458867005856114, guid: 09096fa9ddf47024d99a539f521c9a1f, type: 3}
+  animClip: {fileID: 0}
+  sound: {fileID: 8300000, guid: d8fb5e9903dc02a439e99900f830884c, type: 3}
+  audioDelay: 0
