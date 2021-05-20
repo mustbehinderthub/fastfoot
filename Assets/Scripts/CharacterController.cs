@@ -69,8 +69,7 @@ public class CharacterController : MonoBehaviour
             anim.SetBool("isGrounded", true);
             return true;
         }
-        return true;
-      //  else return false;
+        else return false;
     }
     #endregion
 
